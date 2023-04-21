@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata xmlns="http://dhis2.org/schema/dxf/2.0">
+    <organisationUnits>
+        <organisationUnit id="L6Cy34BzzE2" level="1"  name="_Second root" shortName="_Second Root"
+            code="OU_Root2">
+            <favorite>false</favorite>
+            <dimensionItemType>ORGANISATION_UNIT</dimensionItemType>
+            <externalAccess>false</externalAccess>
+            <featureType>NONE</featureType>
+            <openingDate>1994-01-01</openingDate>
+            <access>
+                <read>true</read>
+                <update>true</update>
+                <externalize>false</externalize>
+                <delete>true</delete>
+                <write>true</write>
+                <manage>true</manage>
+            </access>
+            <user id="GOLswS44mh8"/>
+            
+            <organisationUnitGroups>
+                <organisationUnitGroup id="RpbiCJpIYEj"/>
+            </organisationUnitGroups>
+            <users>
+                <userItem id="rWLrZL8rP3K"/>
+                <userItem id="gEnZri18JsV"/>
+                <userItem id="N3PZBUlN8vq"/>
+                <userItem id="qDNQJROsrzY"/>
+                <userItem id="EZtxytGsq8F"/>
+                <userItem id="nFMpwoStiBw"/>
+                <userItem id="oXD88WWSQpR"/>
+                <userItem id="I9fMsY4pRKk"/>
+                <userItem id="awtnYWiVEd5"/>
+                <userItem id="xE7jOejl9FI"/>
+                <userItem id="GOLswS44mh8"/>
+            </users>
+            <dataSets>
+                <dataSet id="pBOMPrpg1QX"/>
+                <dataSet id="YFTk3VdO9av"/>
+                <dataSet id="ULowA8V3ucd"/>
+                <dataSet id="QX4ZTUbOt3a"/>
+                <dataSet id="eZDhcZi6FLP"/>
+                <dataSet id="YZhd4nu3mzY"/>
+                <dataSet id="OsPTWNqq26W"/>
+                <dataSet id="Nyh6laLdBEJ"/>
+                <dataSet id="Y8gAn9DfAGU"/>
+                <dataSet id="V8MHeZHIrcP"/>
+                <dataSet id="Rl58JxmKJo2"/>
+                <dataSet id="Lpw6GcnTrmS"/>
+                <dataSet id="EDzMBk0RRji"/>
+                <dataSet id="VTdjfLXXmoi"/>
+                <dataSet id="j38YW1Am7he"/>
+                <dataSet id="ce7DSxx5H2I"/>
+                <dataSet id="N4fIX1HL3TQ"/>
+                <dataSet id="SF8FDSqw30D"/>
+                <dataSet id="BfMAe6Itzgt"/>
+                <dataSet id="TuL8IOPzpHh"/>
+                <dataSet id="lyLU2wR22tC"/>
+            </dataSets>
+            <programs>
+                <program id="kla3mAPgvCH"/>
+                <program id="VBqh0ynB2wv"/>
+                <program id="bMcwwoVnbSR"/>
+            </programs>
+        </organisationUnit>
+    </organisationUnits>
+    <users>
+        <user lastUpdated="2018-09-23T21:15:21.928" id="xE7jOejl9FI" href="https://play.dhis2.org/2.30/api/users/xE7jOejl9FI" created="2018-09-23T21:15:21.928" name="John Traore">
+            <displayName>John Traore</displayName>
+            <externalAccess>false</externalAccess>
+            <surname>Traore</surname>
+            <email>someone@dhis2.org</email>
+            <firstName>John</firstName>
+            <favorite>false</favorite>
+            <access>
+                <read>true</read>
+                <update>true</update>
+                <externalize>false</externalize>
+                <delete>true</delete>
+                <write>true</write>
+                <manage>true</manage>
+            </access>
+            <userCredentials lastUpdated="2018-09-23T21:15:21.885" id="ZyjSDLHGPv4" created="2018-09-23T21:15:21.885" name="John Traore">
+                <lastLogin>2018-09-23T21:35:41.817</lastLogin>
+                <displayName>John Traore</displayName>
+                <externalAuth>false</externalAuth>
+                <externalAccess>false</externalAccess>
+                <disabled>false</disabled>
+                <twoFA>false</twoFA>
+                <passwordLastUpdated>2018-09-23T21:15:21.885</passwordLastUpdated>
+                <invitation>false</invitation>
+                <selfRegistered>false</selfRegistered>
+                <favorite>false</favorite>
+                <username>admin</username>
+                <userInfo id="xE7jOejl9FI"/>
+                <access>
+                    <read>true</read>
+                    <update>true</update>
+                    <externalize>false</externalize>
+                    <delete>true</delete>
+                    <write>true</write>
+                    <manage>true</manage>
+                </access>
+                <userRoles>
+                    <userRole id="UYXOT4A7JMI"/>
+                    <userRole id="Ufph3mGRmMo"/>
+                    <userRole id="Euq3XfEIEbx"/>
+                    <userRole id="cUlTcejWree"/>
+                    <userRole id="aNk5AyC7ydy"/>
+                    <userRole id="TMK9CMZ2V98"/>
+                    <userRole id="Ql6Gew7eaX6"/>
+                    <userRole id="Pqoy4DLOdMK"/>
+                    <userRole id="DRdaVRtwmG5"/>
+                    <userRole id="jRWSNIHdKww"/>
+                    <userRole id="txB7vu1w2Pr"/>
+                    <userRole id="xJZBzAHI88H"/>
+                    <userRole id="XS0dNzuZmfH"/>
+                </userRoles>
+            </userCredentials>
+            <organisationUnits>
+                <organisationUnit id="ImspTQPwCqd"/>
+                <organisationUnit id="L6Cy34BzzE2"/>
+            </organisationUnits>
+            <userGroups>
+                <userGroup id="Kk12LkEWtXp"/>
+                <userGroup id="M1Qre0247G3"/>
+                <userGroup id="NTC8GjJ7p8P"/>
+                <userGroup id="B6JNeAQ6akX"/>
+                <userGroup id="wl5cDMuUhmF"/>
+                <userGroup id="QYrzIjSfI8z"/>
+                <userGroup id="lFHP5lLkzVr"/>
+                <userGroup id="jvrEwEJ2yZn"/>
+                <userGroup id="vAvEltyXGbD"/>
+                <userGroup id="w900PX10L7O"/>
+                <userGroup id="GogLpGmkL0g"/>
+                <userGroup id="vRoAruMnNpB"/>
+                <userGroup id="z1gNAf2zUxZ"/>
+                <userGroup id="gXpmQO6eEOo"/>
+                <userGroup id="tH0GcNZZ1vW"/>
+                <userGroup id="H9XnHoWRKCg"/>
+            </userGroups>
+        </user>
+    </users>
+</metadata>
